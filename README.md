@@ -1,2 +1,3 @@
 # creditCardChecker
-my attempt at the credit card checker challenge from codecademy
+My attempt at the credit card checker challenge from codecademy
+I left all the console.log()s I used to help me debug
